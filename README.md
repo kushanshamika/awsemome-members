@@ -32,3 +32,5 @@ _Do not use special characters in the template above._
 ## 2. Wait for Pull Request to merge
 
 ## 3. Celebrate - you've done your first pull request!!
+
+## 4. Please add "hacktoberfest" as a topic to your repo; otherwise it counts as an invalid repo :-)
